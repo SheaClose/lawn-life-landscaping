@@ -1,0 +1,27 @@
+.mower_img {
+  background: url("../../Assets/lawn_mower.jpg") no-repeat center center fixed;
+  min-height: 90vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.5em;
+}
+
+.footer {
+  height: 7vh;
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.landing_container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.lawn_life_title {
+  text-align: center;
+}
